@@ -2,10 +2,14 @@ html {
   font-family: 'Noto Sans', sans-serif;
 }
 
-@media only screen and (min-width: 60em) {
-
-  nav {
-    text-align: right;
+  .nav {
+    color: ##005e76;
+    border: 1px solid #8bc9d9;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
   }
 
 }
+
+@media only screen and (min-width: 60em) {
