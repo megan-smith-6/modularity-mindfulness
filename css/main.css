@@ -4,7 +4,7 @@ html {
 
   .nav {
     color: ##005e76;
-    border: 1px solid #8bc9d9;
+    border: 2px solid #8bc9d9;
     border-top: 0;
     border-left: 0;
     border-right: 0;
@@ -24,6 +24,12 @@ html {
 
   .navigation {
     text-align: center;
+  }
+
+  .btn {
+    background-color: ##005e76;
+    border: 2px solid #8bc9d9;
+    border-radius: 4px;
   }
 
 @media only screen and (min-width: 38em) {
