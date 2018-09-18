@@ -1,5 +1,5 @@
 html {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
 }
 
 .nav {
@@ -28,7 +28,6 @@ a {
   border-right: 0;
 }
 
-
 .navigation {
   text-align: center;
 }
@@ -54,8 +53,14 @@ footer {
   border-bottom: 0;
 }
 
+.jap-font {
+  font-family: "Noto Sans Japanese", sans-serif;
+}
+
 @media only screen and (min-width: 38em) {
+
   .navigation {
     text-align: right;
   }
+
 }
