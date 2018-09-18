@@ -3,8 +3,16 @@ html {
 }
 
 .nav {
-  color: ##005e76;
+  color: #005e76;
   border: 2px solid #8bc9d9;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+}
+
+.nav:hover {
+  color: #000;
+  border: 2px solid #000;
   border-top: 0;
   border-left: 0;
   border-right: 0;
@@ -30,6 +38,20 @@ a {
   background-color: #fff;
   border: 2px solid #8bc9d9;
   border-radius: 4px;
+}
+
+.btn:hover {
+  color: #005e76;
+  background-color: #8bc9d9;
+  border: 2px solid #005e76;
+  border-radius: 4px;
+}
+
+footer {
+  border: 1px solid #e2e2e2;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
 }
 
 @media only screen and (min-width: 38em) {
