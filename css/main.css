@@ -32,14 +32,14 @@ a {
   text-align: center;
 }
 
-.btn {
+.btn-ghost {
   color: #005e76;
   background-color: #fff;
   border: 2px solid #8bc9d9;
   border-radius: 4px;
 }
 
-.btn:hover {
+.btn-ghost:hover {
   color: #005e76;
   background-color: #8bc9d9;
   border: 2px solid #005e76;
