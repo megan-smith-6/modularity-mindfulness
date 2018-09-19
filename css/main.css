@@ -35,7 +35,7 @@ a {
 .btn-ghost {
   color: #005e76;
   background-color: #fff;
-  border: 2px solid #8bc9d9;
+  border: 2px solid #0084a6;
   border-radius: 4px;
 }
 
@@ -53,7 +53,7 @@ footer {
   border-bottom: 0;
 }
 
-.jap-font {
+.jp-1 {
   font-family: "Noto Sans Japanese", sans-serif;
 }
 
