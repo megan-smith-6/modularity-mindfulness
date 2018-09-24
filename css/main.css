@@ -63,4 +63,17 @@ footer {
     text-align: right;
   }
 
+  .first-image {
+    padding-right: .5em;
+  }
+
+  .second-image {
+    padding-left: .25em;
+    padding-right: .25em;
+  }
+
+  .third-image {
+    padding-left: .5em;
+  }
+
 }
